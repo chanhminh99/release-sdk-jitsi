@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webrtc</artifactId>
   <versioning>
-    <latest>1.87.3-jitsi-7477204</latest>
-    <release>1.87.3-jitsi-7477204</release>
+    <latest>1.89.1-jitsi-7517258</latest>
+    <release>1.89.1-jitsi-7517258</release>
     <versions>
-      <version>1.87.3-jitsi-7477204</version>
+      <version>1.89.1-jitsi-7517258</version>
     </versions>
-    <lastUpdated>20210515090045</lastUpdated>
+    <lastUpdated>20210520001626</lastUpdated>
   </versioning>
 </metadata>
